@@ -1,9 +1,10 @@
 .man {
+    display: block;
     width: 500px;
     border-radius: 14px;
 }
  .bg {
-    
+    display: block;
     font-size: 16px;
     color:black;
  }
